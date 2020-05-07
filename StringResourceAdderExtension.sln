@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringResourceAdderExtension", "StringResourceAdderExtension.csproj", "{53DFD234-5FA0-464E-8AB3-FAAD0BA97E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DFD234-5FA0-464E-8AB3-FAAD0BA97E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DFD234-5FA0-464E-8AB3-FAAD0BA97E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DFD234-5FA0-464E-8AB3-FAAD0BA97E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DFD234-5FA0-464E-8AB3-FAAD0BA97E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE4AEC78-4747-4662-8303-9581DB4E91F2}
+	EndGlobalSection
+EndGlobal

@@ -250,46 +250,7 @@ namespace StringResourceAdderExtension
 
                                 }
                             }
-                        }
-
-
-                      
-
-
-
-                        //if (attr.Name.Equals(CONTENT))
-                        //{
-                        //    try
-                        //    {
-                        //        if (node.Attribute(UID).Value.Equals(attr.Value))
-                        //            ShowMessageBox(
-                        //                    $"Resource key {node.Attribute(UID).Value} cant be the same as the value in Content",
-                        //                    $"Resource {node.Attribute(UID).Value} not added",
-                        //                    OLEMSGICON.OLEMSGICON_WARNING);
-                        //        else
-                        //            keywords.Add($"{node.Attribute(UID).Value}.Content", attr.Value);
-
-                        //    }
-                        //    catch (Exception)
-                        //    { }
-                        //}
-
-                        //if (attr.Name.Equals(TOOLTIP))
-                        //{
-                        //    try
-                        //    {
-                        //        if (node.Attribute(UID).Value.Equals(attr.Value))
-                        //            ShowMessageBox(
-                        //                    $"Resource key {node.Attribute(UID).Value} cant be the same as the value in ToolTipService.ToolTip",
-                        //                    $"Resource {node.Attribute(UID).Value} not added",
-                        //                    OLEMSGICON.OLEMSGICON_WARNING);
-                        //        else
-                        //            keywords.Add($"{node.Attribute(UID).Value}.ToolTipService.ToolTip", attr.Value);
-
-                        //    }
-                        //    catch (Exception)
-                        //    { }
-                        //}
+                        } 
 
                     }
 

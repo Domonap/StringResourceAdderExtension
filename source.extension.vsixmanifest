@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="StringResourceAdderExtension.1079afe6-473c-4294-b4a1-f46ce5c586bc" Version="1.0" Language="en-US" Publisher="Gia Kvaratskheliya" />
+        <Identity Id="StringResourceAdderExtension.1079afe6-473c-4294-b4a1-f46ce5c586bc" Version="1.0.1" Language="en-US" Publisher="Domonap" />
         <DisplayName>Resource String Adder</DisplayName>
-        <Description xml:space="preserve">Add string resources, based on x:Uid in XAML</Description>
+        <Description xml:space="preserve">Add strings to resource file. Based on x:Uid in XAML</Description>
+        <Icon>128x128.png</Icon>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
